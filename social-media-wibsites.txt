@@ -1,0 +1,6 @@
+# versio 1.0
+
+www.youtube.com^
+youtube.com^
+facebook.com^
+www.facebook.com^
